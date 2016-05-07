@@ -227,8 +227,8 @@
     <Content Include="Scripts\Angular\Ajax Call\ajaxCallMgmt.js" />
     <Content Include="Scripts\Angular\App\app.js" />
     <Content Include="Scripts\Angular\App\stateController.js" />
-    <Content Include="Scripts\Angular\Controller\Home\stateParentController.js" />
-    <Content Include="Scripts\Angular\Controller\Login\loginController.js" />
+    <Content Include="Scripts\Angular\Controller\Home\ksStateParentController.js" />
+    <Content Include="Scripts\Angular\Controller\Login\ksLoginController.js" />
     <Content Include="Scripts\Angular\Library Files\angular-animate.js" />
     <Content Include="Scripts\Angular\Library Files\angular-animate.min.js" />
     <Content Include="Scripts\Angular\Library Files\angular-aria.js" />
@@ -276,6 +276,7 @@
     <Content Include="Scripts\Angular\Library Files\angular-cookies.min.js.map" />
     <Content Include="Scripts\Angular\Library Files\angular-aria.min.js.map" />
     <Content Include="Scripts\Angular\Library Files\angular-animate.min.js.map" />
+    <Content Include="Scripts\Angular\Services\ksService.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />
