@@ -226,8 +226,8 @@
     <Content Include="Scripts\Angular\Ajax Call\ajaxCallMgmt.js" />
     <Content Include="Scripts\Angular\App\app.js" />
     <Content Include="Scripts\Angular\App\stateController.js" />
-    <Content Include="Scripts\Angular\Controller\Home\ksStateParentController.js" />
-    <Content Include="Scripts\Angular\Controller\Login\ksLoginController.js" />
+    <Content Include="Scripts\Angular\Controller\Home\stateParentController.js" />
+    <Content Include="Scripts\Angular\Controller\Login\loginController.js" />
     <Content Include="Scripts\Angular\Library Files\angular-animate.js" />
     <Content Include="Scripts\Angular\Library Files\angular-animate.min.js" />
     <Content Include="Scripts\Angular\Library Files\angular-aria.js" />
@@ -257,7 +257,6 @@
     <Content Include="Scripts\Angular\Library Files\angular-ui-router.min.js" />
     <Content Include="Scripts\Angular\Library Files\angular.js" />
     <Content Include="Scripts\Angular\Library Files\angular.min.js" />
-    <Content Include="Scripts\Angular\Services\ksService.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -1031,6 +1030,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\Views\Login\login.html" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\login.html" />
     <Content Include="Views\Login\login.html" />
